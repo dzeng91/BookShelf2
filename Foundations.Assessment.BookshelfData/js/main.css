@@ -1,0 +1,34 @@
+#shelfTitle {
+    display: flex;
+    text-align: center;
+    color: red;
+    font-size: 100px;
+    font-family:'Courier New', Courier, monospace;
+    justify-content: center;
+    background-color: grey
+}
+
+body {
+    display: absolute;
+    justify-content: center;
+    background-image:  url("https://media.istockphoto.com/vectors/library-book-shelf-interior-graphic-sketch-black-white-illustration-vector-id1296200870?k=20&m=1296200870&s=612x612&w=0&h=i9XsURd4XALv2FKprmD7Dxl9zp9MoO-9fwBhI2JiJBw=");
+}
+
+#option {
+    size: 100px;
+    height: 30px;
+    width: 200px;
+    color: red;
+}
+
+b {
+    color: red;
+    font-size: 50px
+}
+
+
+section {
+    border: 1px solid red;
+    width: 700px;
+    background-color: rgb(175, 175, 175);
+}
